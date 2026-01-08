@@ -1,0 +1,10 @@
+# List files
+ls
+
+# show current directory 
+
+pwd
+
+# Create a new directory
+
+mkdir directory_name
