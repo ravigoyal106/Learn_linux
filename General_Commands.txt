@@ -1,3 +1,0 @@
-# Check files in directory 
-ls 
-ls -l # shows a list of files and directories available in current directory with detail information.
