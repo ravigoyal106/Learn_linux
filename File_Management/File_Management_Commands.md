@@ -6,9 +6,6 @@
 ```bash
 pwd                  # print current directory path 
 
-#### ls command
-
-```bash
 ls                   # List files
 ls -l                # List files with detailed info.
 ls -a                # Shows all, including hidden files
