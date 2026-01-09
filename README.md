@@ -1,8 +1,10 @@
-## This repository contains my hands-on practice of Linux commands.
--Using this repository to improve Linux Skills.
+## Linux Hands-on learning Repository
+### This Repository contains core system administration concepts with practical examples.
 
 
 ### Topics Covered
--Basic File Processing commands
-
--Text Processing commands
+- File Management 
+- Text Processing 
+- User Management
+- System Information
+- Networking
