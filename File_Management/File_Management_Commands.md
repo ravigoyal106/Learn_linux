@@ -5,9 +5,15 @@
 ##### How to check where we are in the terminal.
 ```bash
 pwd                  # print current directory path 
-
+#### ls command
 ls                   # List files
 ls -l                # List files with detailed info.
 ls -a                # Shows all, including hidden files
 ls -lh               # Long list with human-readable file size (ls -h)
 ls -S                # Sort by size (-S) and reverse order sorting (-r)
+```
+<details>
+<summary><b>View Terminal output</b></summary>
+<img src="File_Management.png">
+</details>
+<!--##![ls command output](File_Management.png) -->
