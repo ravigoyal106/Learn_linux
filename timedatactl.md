@@ -7,8 +7,12 @@ timedatectl list-timezones           # List all time Zones
 
 sudo timedatectl set-timezone Asia/Kolkata # Change timezone to Asia/Kolkata
 
-sudo timedatectl set-time 'YYYY-MM-DD HH:MM:SS' # set time 
+sudo timedatectl set-time 'YYYY-MM-DD HH:MM:SS' # set time
 ```
+<details>
+<summary><b>View Terminal output</b></summary>
+<img src="images/timedatectl.png">
+</details>
 ### Enable Auto time sync
 
 ```bash
@@ -40,4 +44,9 @@ sudo timedatectl set-timezone UTC   # Standardize all nodes to UTC
 
 timedatectl status                  # Check Status
 ```
+<details>
+<summary><b>View Terminal output</b></summary>
+<img src="images/timedate.png">
+</details>
+
 
