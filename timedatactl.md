@@ -1,6 +1,6 @@
 ## `timedatectl`
-#### with the help of `timedatectl` command you can chenge the timezone of your linux server.
-```
+#### With the help of the `timedatectl` command, you can change the timezone of your Linux server.
+```bash
 timedatectl status                 # Check current timezone of the System
 
 timedatectl list-timezones           # List all time Zones
@@ -38,3 +38,4 @@ P4. In a distributed system, logs appear out of sequence because nodes are in di
 sudo timedatectl set-timezone UTC # Standardize all nodes to UTC
 
 timedatectl status # Check Status
+
