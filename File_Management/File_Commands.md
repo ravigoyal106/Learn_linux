@@ -1,12 +1,12 @@
 >## Create a File
 
 ```bash
-touch file_Name             # Create a empty file
+touch file_Name             # Create an empty file
 ```
 >## Editing Files
 ```bash
 nano file                   # Simple terminal text editor
-vim file                    # Advance Editor with modes
+vim file                    # Advanced Editor with modes
 gedit file                  # GUI editor
 ```
 >## Remove File
@@ -25,7 +25,7 @@ less file_Name              # Scroll one page at a time
 head -n 2 file_Name         # Show two lines of file
 tail -n 2 file_name         # Shows last two
 ```
->## Copying, Rename and Moving Files
+>## Copying, Renaming, and Moving Files
 
 ```bash
 cp [source] [destination]       # Copy files
@@ -39,10 +39,10 @@ mv [source] ][destination]      # move or rename
 ```bash
 # Link 
 ```
->## File Metadate
+>## File Metadata
 
 ```bash
-stat file                       # Detaild info (size,timestamps,innode)
+stat file                       # Detailed info (size, timestamps,innode)
 file file_name                  # Identify file type
 wc                              # lines, words, bytes 
 wc -l                           # only lines
@@ -51,3 +51,4 @@ wc- c                           # Count bytes
 wc -m                           # Count characters
 wc -L                           # Print length of longest line
 ```
+
